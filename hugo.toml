@@ -1,4 +1,4 @@
-baseURL = 'https://nayntac.github.io/'
+baseURL = 'https://nayntac.github.io/portfolio/'
 locale = 'en-us'
 title = 'Тестовый проект Hugo'
 theme = 'ananke'
