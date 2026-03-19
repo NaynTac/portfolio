@@ -3,3 +3,7 @@ locale = 'en-us'
 title = 'Тестовый проект Hugo'
 theme = 'ananke'
 copyright = 'Пименов Егор'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
